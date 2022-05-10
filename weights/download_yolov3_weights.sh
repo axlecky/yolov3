@@ -9,7 +9,7 @@
 # wget -c https://pjreddie.com/media/files/yolov3-spp.weights
 
 # yolov3 pytorch weights
-# download from Google Drive: https://drive.google.com/drive/folders/1uxgUBemJVw9wZsdpboYbzUN4bcRhsuAI
+# download from Google Drive: https://drive.google.com/open?id=1LezFG5g3BCW6iYaV89B2i64cqEUZD7e0
 
 # darknet53 weights (first 75 layers only)
 # wget -c https://pjreddie.com/media/files/darknet53.conv.74
